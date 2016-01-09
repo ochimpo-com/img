@@ -1,0 +1,19 @@
+{
+  "name": "img.ochimpo.com",
+  "version": "0.1.0",
+  "description": "Share any images by ochimpo.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Sorry, no test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ochimpo-com/img.git"
+  },
+  "author": "ARASHI, Jumpei",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/ochimpo-com/img/issues"
+  },
+  "homepage": "https://github.com/ochimpo-com/img#readme"
+}
